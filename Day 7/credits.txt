@@ -1,0 +1,4 @@
+Better example input by u/LxsterGames
+https://www.reddit.com/r/adventofcode/comments/18cr4xr/2023_day_7_better_example_input_not_a_spoiler/
+
+Very helpful for figuring out Part 2
